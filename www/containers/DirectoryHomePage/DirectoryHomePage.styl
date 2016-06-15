@@ -1,8 +1,10 @@
+@require('../../assets/styles/vars.styl')
+
 .menu
   width 80vw
   text-align center
 
-  &__item
+  &__link__item
     background-color $green
     font-size 18px
     width 100%
@@ -10,10 +12,10 @@
     padding-bottom 20px
 
     &--doctors
-      background-color lighten(#3a6168, 25%)
+      background-color lighten($green, 25%)
 
     &--hospitals
-      background-color lighten(#3a6168, 15%)
+      background-color lighten($green, 15%)
 
     &--pharmacies
-      background-color lighten(#3a6168, 5%)
+      background-color lighten($green, 5%)
