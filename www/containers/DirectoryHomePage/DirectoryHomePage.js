@@ -6,18 +6,18 @@ const DirectoryHomePage = (props) => {
   return (
     <div>
       <h1>Home</h1>
-      <nav>
+      <nav className='menu'>
         <Link to='/doctors' activeClassName='active'>
-          <div className='nav__item nav__item--doctors'>Doctors</div>
+          <div className='menu__item menu__item--doctors'>Doctors</div>
         </Link>
         <Link to='/hospitals' activeClassName='active'>
-          <div className='nav__item nav__item--hospitals'>Hospitals</div>
+          <div className='menu__item menu__item--hospitals'>Hospitals</div>
         </Link>
         <Link to='/pharmacies' activeClassName='active'>
-          <div className='nav__item nav__item--pharmacies'>Pharmacies</div>
+          <div className='menu__item menu__item--pharmacies'>Pharmacies</div>
         </Link>
         <Link to='/appointment' activeClassName='active'>
-          <div className='nav__item nav__item--appointment'>Make An Appointment</div>
+          <div className='menu__item menu__item--appointment'>Make An Appointment</div>
         </Link>
       </nav>
     </div>
