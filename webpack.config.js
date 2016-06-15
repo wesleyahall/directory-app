@@ -11,7 +11,7 @@ var output = {
 
 var assetsLoaders = [
   {test: /\.css$/, loader: 'style!css!postcss'},
-  {test: /\.styl$/, loader: 'style!css!postcss!stylus'},
+  {test: /\.styl$/, loader: 'style!css!postcss!stylus?dest='},
   {test: /\.json$/, loader: 'json'},
   {
     test: /\.svg(\?v=[0-9].[0-9].[0-9])?$/,
