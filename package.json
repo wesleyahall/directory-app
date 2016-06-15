@@ -8,9 +8,7 @@
     "start": "node server.js",
     "dev": "node dev-server.js",
     "build-ios": "webpack && cordova build ios && open platforms/ios/directory-app.xcodeproj",
-    "lint": "eslint ./src ./tests *.js",
-    "test": "npm run lint && mocha tests --recursive -r babel-core/register -r tests/setup",
-    "test:dev": "mocha tests --recursive -r babel-core/register -r tests/setup -w"
+    "lint": "eslint ./www *.js",
   },
   "keywords": [
     "react",
