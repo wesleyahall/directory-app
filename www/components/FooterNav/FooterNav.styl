@@ -1,0 +1,27 @@
+@require('../../assets/styles/vars.styl')
+
+.footer-nav
+  position fixed
+  height 10vh
+  line-height 10vh
+  width 100vw
+  bottom 0
+  left 0
+
+  &__link
+    font-size 20px
+    font-weight bold
+
+    &__item
+      background-color $tan;
+      border-top 3px solid $light-brown;
+      box-sizing border-box;
+      color $green;
+      display inline-block;
+      position relative;
+      text-align center;
+      width 50vw;
+
+    &--active &__item
+      border-top 3px solid $brown
+      color $brown
