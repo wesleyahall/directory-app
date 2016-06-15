@@ -4,8 +4,8 @@ var autoprefixer = require('autoprefixer')
 var embedFileSize = 65536
 
 var output = {
-  path: path.join(__dirname, 'build'),
-  filename: 'app.js',
+  path: path.join(__dirname, 'www'),
+  filename: 'bundle.js',
   publicPath: '/'
 }
 
@@ -27,16 +27,16 @@ var assetsLoaders = [
   }
 ]
 
+var plugins = [
+  new webpack.optimize.OccurenceOrderPlugin(),
+  new webpack.optimize.DedupePlugin()
+]
+
 var lintLoader = {
   test: /\.jsx?$/,
   exclude: /node_modules/,
   loader: 'eslint'
 }
-
-var plugins = [
-  new webpack.optimize.OccurenceOrderPlugin(),
-  new webpack.optimize.DedupePlugin()
-]
 
 var babelLoader = {
   loader: 'babel-loader',
@@ -53,11 +53,9 @@ var babelLoader = {
 
 var commonConfig = {
   output: output,
-
   standard: {
     parser: 'babel-eslint'
   },
-
   postcss: [ autoprefixer({ browsers: ['last 2 versions'] }) ],
 
   resolve: {
