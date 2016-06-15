@@ -18,6 +18,7 @@ export default([
   },
   {
     path: '/appointment',
-    component: AppointmentPage
+    component: App,
+    indexRoute: {component: AppointmentPage}
   }
 ])
