@@ -1,4 +1,5 @@
 @require('../../assets/styles/vars.styl')
+@require('../../assets/styles/font-awesome.css')
 
 .footer-nav
   position fixed
@@ -9,7 +10,8 @@
   left 0
 
   &__link
-    font-size 20px
+    font-family Lato
+    font-size 14px
     font-weight bold
 
     &__item
@@ -20,8 +22,22 @@
       display inline-block;
       position relative;
       text-align center;
-      width 50vw;
+      width 50%;
+
+      & i
+        padding-right 10px
 
     &--active &__item
       border-top 3px solid $brown
       color $brown
+
+      &::before
+        content '\f0d7'
+        font-family 'FontAwesome'
+        font-size 20px
+        height 20px
+        left 50%
+        line-height 20px
+        margin-top -8px
+        position absolute
+        top 0

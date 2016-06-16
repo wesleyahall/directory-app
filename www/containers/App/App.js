@@ -1,6 +1,7 @@
 import './App.styl'
 import React from 'react'
 import FooterNav from '../../components/FooterNav'
+import 'react-fastclick'
 
 class App extends React.Component {
   render () {

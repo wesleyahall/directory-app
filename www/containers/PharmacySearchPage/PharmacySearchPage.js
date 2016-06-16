@@ -2,7 +2,7 @@ import React from 'react'
 
 const PharmacySearchPage = (props) => {
   return (
-    <div>
+    <div className='page'>
       <h1>Pharmacies</h1>
     </div>
   )

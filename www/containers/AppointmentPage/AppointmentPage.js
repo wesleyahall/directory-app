@@ -3,7 +3,7 @@ import React from 'react'
 
 const AppointmentPage = (props) => {
   return (
-    <div>
+    <div className='page'>
       <h1>Appointments</h1>
     </div>
   )

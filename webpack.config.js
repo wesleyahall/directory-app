@@ -15,15 +15,12 @@ var assetsLoaders = [
   {test: /\.json$/, loader: 'json'},
   {
     test: /\.svg(\?v=[0-9].[0-9].[0-9])?$/,
-    loader: 'file?name=[name].[ext]!url?limit=' + embedFileSize +
+    loader: 'url?name=[name].[ext]!url?limit=' + embedFileSize +
       '&mimetype=image/svg+xml'
   },
-  {test: /\.png$/, loader: 'url?limit=' + embedFileSize + '&mimetype=image/png'},
-  {test: /\.jpg$/, loader: 'url?limit=' + embedFileSize + '&mimetype=image/jpeg'},
-  {test: /\.gif$/, loader: 'url?limit=' + embedFileSize + '&mimetype=image/gif'},
   {
-    test: /\.(otf|eot|ttf|woff|woff2)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-    loader: 'url?limit=' + embedFileSize
+    test: /\.(woff|woff2|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+    loader: 'url?name=[name].[ext]!url?limit=' + embedFileSize
   }
 ]
 
