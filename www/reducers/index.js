@@ -1,11 +1,8 @@
 import { combineReducers } from 'redux'
-
-function reducerStub (state = {}, action) {
-  return state
-}
+import doctors from './doctorReducer'
 
 const rootReducer = combineReducers({
-  reducerStub
+  doctors
 })
 
 export default rootReducer

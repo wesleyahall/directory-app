@@ -2,6 +2,7 @@ import keymirror from 'keymirror'
 
 export default {
   ACTIONS: keymirror({
-    REQUEST_DATA: null
+    FILTER_DOCTORS: null,
+    SET_DOCTORS_DATA: null
   })
 }

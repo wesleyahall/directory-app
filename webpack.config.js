@@ -18,23 +18,26 @@ var assetsLoaders = [
     loader: 'url?name=[name].[ext]!url?limit=' + embedFileSize +
       '&mimetype=image/svg+xml'
   },
+  {test: /\.png$/, loader: 'url?limit=' + embedFileSize + '&mimetype=image/png'},
+  {test: /\.jpg$/, loader: 'url?limit=' + embedFileSize + '&mimetype=image/jpeg'},
+  {test: /\.gif$/, loader: 'url?limit=' + embedFileSize + '&mimetype=image/gif'},
   {
     test: /\.(woff|woff2|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
     loader: 'url?name=[name].[ext]!url?limit=' + embedFileSize
   }
 ]
 
-var plugins = [
-  new webpack.optimize.OccurenceOrderPlugin(),
-  new webpack.optimize.DedupePlugin()
-]
+
 
 var lintLoader = {
   test: /\.jsx?$/,
   exclude: /node_modules/,
   loader: 'eslint'
 }
-
+var plugins = [
+  new webpack.optimize.OccurenceOrderPlugin(),
+  new webpack.optimize.DedupePlugin()
+]
 var babelLoader = {
   loader: 'babel-loader',
   include: [
