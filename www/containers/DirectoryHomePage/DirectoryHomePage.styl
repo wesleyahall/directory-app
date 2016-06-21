@@ -17,34 +17,23 @@
     box-shadow 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
     color $white
     display table
-    font-size 24px
     height 20vh
     margin-bottom 5vh
-    text-align center
-    vertical-align middle
     width 100%
-    
-    & span
+
+    &__container
       display table-cell
-      height 24px
+      text-align center
       vertical-align middle
 
-    &--doctors
-      &::before
-        content 'a'
+    &__title
+      display inline-block
+      font-size 24px
+      vertical-align middle
 
-    &--hospitals
-      &::before
-        content 'b'
-
-    &--pharmacies
-      &::before
-        content 'c'
-
-    &::before
-      display table-cell
+    &__icon
+      display inline-block
       font-family 'clearview'
       font-size 36px
-      height 36px
+      margin-right 18px
       vertical-align middle
-      width 36px
