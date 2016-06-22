@@ -7,7 +7,7 @@ class DoctorTable extends React.Component {
   //   super(props)
   // }
 
-  componentWillMount () {
+  componentDidMount () {
     this.props.setDoctorsData()
   }
 

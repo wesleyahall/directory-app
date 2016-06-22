@@ -1,11 +1,17 @@
 import React from 'react'
+import { connect } from 'react-redux'
+import { pharmacyActions as actions } from '../../actions'
+import { bindActionCreators } from 'redux'
+import PharmacyTable from '../../components/PharmacyTable'
 
 const PharmacySearchPage = (props) => {
   return (
-    <div className='page'>
-      <h1>Pharmacies</h1>
+    <div>
+      <PharmacyTable {...props} />
     </div>
   )
 }
 
-export default PharmacySearchPage
+const mapStateToProps = ({pharmacies}) => pharmacies
+const mapDispatchToProps = (dispatch) => bindActionCreators(actions, dispatch)
+export default connect(mapStateToProps, mapDispatchToProps)(PharmacySearchPage)

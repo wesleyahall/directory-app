@@ -7,6 +7,10 @@ const initialAppState = {
   doctors: {
     data: [],
     filterString: ''
+  },
+  pharmacies: {
+    data: [],
+    filterString: ''
   }
 }
 
