@@ -2,27 +2,24 @@ import { createStore, applyMiddleware, compose } from 'redux'
 import thunk from 'redux-thunk'
 import createLogger from 'redux-logger'
 import rootReducer from '../reducers/index.js'
-import { persistState } from 'redux-devtools'
+import * as storage from 'redux-storage'
+import createEngine from 'redux-storage-engine-localstorage'
 
 const logger = createLogger()
+const engine = createEngine('cci-directory')
 
 export default function configureStore (initialState) {
-  let middleware = applyMiddleware()
+  const storageMiddleWare = storage.createMiddleware(engine)
+  let middleware
   let enhancer
 
   if (process.env.NODE_ENV !== 'production') {
-    let middlewares = [thunk, logger]
+    let middlewares = [storageMiddleWare, thunk, logger]
     middleware = applyMiddleware(...middlewares)
-
-    let getDebugSessionKey = function () {
-      const matches = window.location.href.match(/[?&]debug_session=([^&]+)\b/)
-      return (matches && matches.length) ? matches[1] : null
-    }
 
     enhancer = compose(
       middleware,
-      window.devToolsExtension ? window.devToolsExtension() : require('../containers/DevTools.js').default.instrument(),
-      persistState(getDebugSessionKey())
+      window.devToolsExtension ? window.devToolsExtension() : require('../containers/DevTools.js').default.instrument()
     )
   } else {
     enhancer = compose(middleware)
@@ -33,6 +30,9 @@ export default function configureStore (initialState) {
     initialState,
     enhancer
   )
+
+  const load = storage.createLoader(engine)
+  load(store)
 
   if (module.hot) {
     module.hot.accept('../reducers', () => {

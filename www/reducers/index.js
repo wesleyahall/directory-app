@@ -6,8 +6,9 @@ import DoctorFilterStringReducer from './reducer_doctor_filterstring'
 import SelectedDoctorReducer from './reducer_selected_doctor'
 import HospitalFilterStringReducer from './reducer_hospital_filterstring'
 import SelectedHospitalReducer from './reducer_selected_hospital'
+import * as storage from 'redux-storage'
 
-const rootReducer = combineReducers({
+const rootReducer = storage.reducer(combineReducers({
   doctors: DoctorsReducer,
   doctorFilterString: DoctorFilterStringReducer,
   selectedDoctor: SelectedDoctorReducer,
@@ -15,6 +16,6 @@ const rootReducer = combineReducers({
   hospitalFilterString: HospitalFilterStringReducer,
   selectedHospital: SelectedHospitalReducer,
   pharmacies: PharmaciesReducer
-})
+}))
 
 export default rootReducer
