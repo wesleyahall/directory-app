@@ -27,8 +27,6 @@ var assetsLoaders = [
   }
 ]
 
-
-
 var lintLoader = {
   test: /\.jsx?$/,
   exclude: /node_modules/,
@@ -91,7 +89,6 @@ var production = Object.assign({
     )
   }
 }, commonConfig)
-
 
 var development = Object.assign({
   port: 3000,

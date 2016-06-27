@@ -1,0 +1,1641 @@
+[
+  {
+    "City": "Albertville",
+    "FaxNumber": "256-891-3155",
+    "Name": "Albertville Discount Pharmacy",
+    "PhoneNumber": "256-878-1515",
+    "State": "AL",
+    "id": 0
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-534-1208",
+    "Name": "Ambulatory Pharmacy",
+    "PhoneNumber": "256-534-4533",
+    "State": "AL",
+    "id": 1
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-350-2345",
+    "Name": "Apotheca Supply",
+    "PhoneNumber": "256-350-2347",
+    "State": "AL",
+    "id": 2
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-232-2029",
+    "Name": "Athens Creekside Pharmacy",
+    "PhoneNumber": "256-232-8274",
+    "State": "AL",
+    "id": 3
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-230-2601",
+    "Name": "Athens Pharmacy",
+    "PhoneNumber": "256-232-2242",
+    "State": "AL",
+    "id": 4
+  },
+  {
+    "City": "Rogersville",
+    "FaxNumber": "256-247-7866",
+    "Name": "Barnett Drugs",
+    "PhoneNumber": "256-247-5451",
+    "State": "AL",
+    "id": 5
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-353-2093",
+    "Name": "Bendall's Pharmacy",
+    "PhoneNumber": "256-353-2021",
+    "State": "AL",
+    "id": 6
+  },
+  {
+    "City": "Scottsboro",
+    "FaxNumber": "256-259-5311",
+    "Name": "Big C 106 Parks Av",
+    "PhoneNumber": "256-574-5520",
+    "State": "AL",
+    "id": 7
+  },
+  {
+    "City": "Skyline",
+    "FaxNumber": "256-587-3352",
+    "Name": "Big C: 21549 AL Hwy 79",
+    "PhoneNumber": "256-587-3342",
+    "State": "AL",
+    "id": 8
+  },
+  {
+    "City": "Boaz",
+    "FaxNumber": "256-593-3137",
+    "Name": "Boaz Discount",
+    "PhoneNumber": "256-593-6546",
+    "State": "AL",
+    "id": 9
+  },
+  {
+    "City": "Guntersville",
+    "FaxNumber": "256-582-3827",
+    "Name": "Bunch Pharmacy",
+    "PhoneNumber": "256-582-5700",
+    "State": "AL",
+    "id": 10
+  },
+  {
+    "City": "Henagar",
+    "FaxNumber": "256-657-2232",
+    "Name": "Camp Drugs",
+    "PhoneNumber": "256-657-5187",
+    "State": "AL",
+    "id": 11
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-464-9950",
+    "Name": "CareDirect Rx",
+    "PhoneNumber": "256-464-9949",
+    "State": "AL",
+    "id": 12
+  },
+  {
+    "City": "Fayetteville",
+    "FaxNumber": "931-433-1169",
+    "Name": "Carter's at Stonebridge",
+    "PhoneNumber": "931-438-0760",
+    "State": "TN",
+    "id": 13
+  },
+  {
+    "City": "Fayetteville",
+    "FaxNumber": "931-433-6854",
+    "Name": "Carter's Drugs",
+    "PhoneNumber": "931-433-1511",
+    "State": "TN",
+    "id": 14
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-536-0801",
+    "Name": "Central No. AL Health Services",
+    "PhoneNumber": "256-533-6311",
+    "State": "AL",
+    "id": 15
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-851-1347",
+    "Name": "Chase Pharmacy",
+    "PhoneNumber": "256-851-1345",
+    "State": "AL",
+    "id": 16
+  },
+  {
+    "City": "Boaz",
+    "FaxNumber": "256-840-1109",
+    "Name": "Clark's Pharmacy",
+    "PhoneNumber": "256-840-1100",
+    "State": "AL",
+    "id": 17
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-704-3386",
+    "Name": "Clearview Pharmacy - CCI Drive",
+    "PhoneNumber": "256-327-5900",
+    "State": "AL",
+    "id": 18
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-519-2229",
+    "Name": "Costco Pharmacy",
+    "PhoneNumber": "256-519-2222",
+    "State": "AL",
+    "id": 19
+  },
+  {
+    "City": "Cullman",
+    "FaxNumber": "256-734-4234",
+    "Name": "Cullman Discount Drugs",
+    "PhoneNumber": "256-734-4251",
+    "State": "AL",
+    "id": 20
+  },
+  {
+    "City": "Albertville",
+    "FaxNumber": "256-878-3846",
+    "Name": "CVS",
+    "PhoneNumber": "256-878-3502",
+    "State": "AL",
+    "id": 21
+  },
+  {
+    "City": "Arab",
+    "FaxNumber": "256-586-1327",
+    "Name": "CVS",
+    "PhoneNumber": "256-586-6021",
+    "State": "AL",
+    "id": 22
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-230-3104",
+    "Name": "CVS",
+    "PhoneNumber": "256-233-0514",
+    "State": "AL",
+    "id": 23
+  },
+  {
+    "City": "Cullman",
+    "FaxNumber": "256-775-1285",
+    "Name": "CVS",
+    "PhoneNumber": "256-739-4601",
+    "State": "AL",
+    "id": 24
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-308-2795",
+    "Name": "CVS",
+    "PhoneNumber": "256-355-8465",
+    "State": "AL",
+    "id": 25
+  },
+  {
+    "City": "Fayetteville",
+    "FaxNumber": "931-433-5473",
+    "Name": "CVS",
+    "PhoneNumber": "931-433-7110",
+    "State": "TN",
+    "id": 26
+  },
+  {
+    "City": "Guntersville",
+    "FaxNumber": "256-582-6573",
+    "Name": "CVS",
+    "PhoneNumber": "256-505-0803",
+    "State": "AL",
+    "id": 27
+  },
+  {
+    "City": "Hanceville",
+    "FaxNumber": "256-352-4879",
+    "Name": "CVS",
+    "PhoneNumber": "256-352-6998",
+    "State": "AL",
+    "id": 28
+  },
+  {
+    "City": "Hartselle",
+    "FaxNumber": "256-773-6455",
+    "Name": "CVS",
+    "PhoneNumber": "256-773-1768",
+    "State": "AL",
+    "id": 29
+  },
+  {
+    "City": "Harvest",
+    "FaxNumber": "256-851-5356",
+    "Name": "CVS",
+    "PhoneNumber": "256-851-5350",
+    "State": "AL",
+    "id": 30
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-837-9858",
+    "Name": "CVS Providence Main St.",
+    "PhoneNumber": "256-837-2057",
+    "State": "AL",
+    "id": 31
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-650-1597",
+    "Name": "CVS S. Mem'l Pky",
+    "PhoneNumber": "256-650-1543",
+    "State": "AL",
+    "id": 32
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-881-5475",
+    "Name": "CVS Cecil Ashburn Dr. SE",
+    "PhoneNumber": "256-880-1470",
+    "State": "AL",
+    "id": 33
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-858-8596",
+    "Name": "CVS Winchester Rd.",
+    "PhoneNumber": "256-858-8595",
+    "State": "AL",
+    "id": 34
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-533-9857",
+    "Name": "CVS Whitesburg Dr.",
+    "PhoneNumber": "256-533-6181",
+    "State": "AL",
+    "id": 35
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-533-1849",
+    "Name": "CVS Oakwood Ave NW",
+    "PhoneNumber": "256-533-5754",
+    "State": "AL",
+    "id": 36
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-534-5266",
+    "Name": "CVS Bob Wallace Ave",
+    "PhoneNumber": "256-534-0637",
+    "State": "AL",
+    "id": 37
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-852-0468",
+    "Name": "CVS Winchester Rd.",
+    "PhoneNumber": "256-852-1915",
+    "State": "AL",
+    "id": 38
+  },
+  {
+    "City": "Lawrenceburg",
+    "FaxNumber": "931-762-4939",
+    "Name": "CVS",
+    "PhoneNumber": "931-762-0800",
+    "State": "TN",
+    "id": 39
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-837-3726",
+    "Name": "CVS  Hwy 72W/Balch",
+    "PhoneNumber": "256-837-3362",
+    "State": "AL",
+    "id": 40
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-772-4128",
+    "Name": "CVS Old Madison Pike",
+    "PhoneNumber": "256-461-7799",
+    "State": "AL",
+    "id": 41
+  },
+  {
+    "City": "MER",
+    "FaxNumber": "256-828-8502",
+    "Name": "CVS",
+    "PhoneNumber": "256-828-8550",
+    "State": "AL",
+    "id": 42
+  },
+  {
+    "City": "STE",
+    "FaxNumber": "256-974-3844",
+    "Name": "CVS",
+    "PhoneNumber": "256-974-5291",
+    "State": "AL",
+    "id": 43
+  },
+  {
+    "City": "Pulaski",
+    "FaxNumber": "931-363-7165",
+    "Name": "CVS",
+    "PhoneNumber": "931-363-1132",
+    "State": "TN",
+    "id": 44
+  },
+  {
+    "City": "Scottsboro",
+    "FaxNumber": "256-259-2891",
+    "Name": "CVS",
+    "PhoneNumber": "256-259-2832",
+    "State": "AL",
+    "id": 45
+  },
+  {
+    "City": "Shelbyville",
+    "FaxNumber": "931-684-2217",
+    "Name": "CVS",
+    "PhoneNumber": "931-684-8702",
+    "State": "TN",
+    "id": 46
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-233-8891",
+    "Name": "Eastside Pharmacy",
+    "PhoneNumber": "256-233-7070",
+    "State": "AL",
+    "id": 47
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-955-0189",
+    "Name": "Fox Army Health Ctr",
+    "PhoneNumber": "256-842-7337",
+    "State": "AL",
+    "id": 48
+  },
+  {
+    "City": "Ardmore",
+    "FaxNumber": "256-423-8990",
+    "Name": "Fred's Pharmacy",
+    "PhoneNumber": "256-423-8989",
+    "State": "AL",
+    "id": 49
+  },
+  {
+    "City": "Fayetteville",
+    "FaxNumber": "931-438-2629",
+    "Name": "Fred's Pharmacy",
+    "PhoneNumber": "931-438-2626",
+    "State": "TN",
+    "id": 50
+  },
+  {
+    "City": "Pulaski",
+    "FaxNumber": "931-424-9820",
+    "Name": "Fred's Pharmacy",
+    "PhoneNumber": "931-424-6573",
+    "State": "TN",
+    "id": 51
+  },
+  {
+    "City": "Rogersville",
+    "FaxNumber": "256-247-6833",
+    "Name": "Fred's Pharmacy",
+    "PhoneNumber": "256-247-6830",
+    "State": "AL",
+    "id": 52
+  },
+  {
+    "City": "Hartselle",
+    "FaxNumber": "256-751-0625",
+    "Name": "Gilchrest Pharmacy",
+    "PhoneNumber": "256-773-1998",
+    "State": "AL",
+    "id": 53
+  },
+  {
+    "City": "Grant",
+    "FaxNumber": "256-728-5603",
+    "Name": "Grant Pharmacy",
+    "PhoneNumber": "256-728-7545",
+    "State": "AL",
+    "id": 54
+  },
+  {
+    "City": "Gurley",
+    "FaxNumber": "256-776-4523",
+    "Name": "Gurley Pharmacy",
+    "PhoneNumber": "256-776-4430",
+    "State": "AL",
+    "id": 55
+  },
+  {
+    "City": "Guntersville",
+    "FaxNumber": "256-582-3648",
+    "Name": "Haralson Drugs",
+    "PhoneNumber": "256-582-3661",
+    "State": "AL",
+    "id": 56
+  },
+  {
+    "City": "Hazel Green",
+    "FaxNumber": "256-813-0149",
+    "Name": "Hazel Green Pharmacy",
+    "PhoneNumber": "256-813-0150",
+    "State": "AL",
+    "id": 57
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-882-7919",
+    "Name": "Hunnington Pharmacy",
+    "PhoneNumber": "256-882-7979",
+    "State": "AL",
+    "id": 58
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-425-0195",
+    "Name": "Huntsville Compounding",
+    "PhoneNumber": "256-425-0123",
+    "State": "AL",
+    "id": 59
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-265-3401",
+    "Name": "Huntsville Hospital Outpatient Ph",
+    "PhoneNumber": "256-265-3400",
+    "State": "AL",
+    "id": 60
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-851-1347",
+    "Name": "Jay's Pharmacy",
+    "PhoneNumber": "256-851-1346",
+    "State": "AL",
+    "id": 61
+  },
+  {
+    "City": "Harvest",
+    "FaxNumber": "256-230-3407",
+    "Name": "Joe's Pharmacy",
+    "PhoneNumber": "256-230-3415",
+    "State": "AL",
+    "id": 62
+  },
+  {
+    "City": "Arab",
+    "FaxNumber": "256-586-9776",
+    "Name": "Jones Discount  Pharmacy",
+    "PhoneNumber": "256-586-3179",
+    "State": "AL",
+    "id": 63
+  },
+  {
+    "City": "Ardmore",
+    "FaxNumber": "256-423-8999",
+    "Name": "Jones Drug Co.",
+    "PhoneNumber": "256-423-2155",
+    "State": "AL",
+    "id": 64
+  },
+  {
+    "City": "Rainsville",
+    "FaxNumber": "256-638-4149",
+    "Name": "Kilgore",
+    "PhoneNumber": "256-638-4142",
+    "State": "AL",
+    "id": 65
+  },
+  {
+    "City": "Gurley",
+    "FaxNumber": "256-776-4523",
+    "Name": "Kilgore Pharmacy",
+    "PhoneNumber": "256-776-4430",
+    "State": "AL",
+    "id": 66
+  },
+  {
+    "City": "Albertville",
+    "FaxNumber": "256-878-0642",
+    "Name": "K-Mart",
+    "PhoneNumber": "256-878-9033",
+    "State": "AL",
+    "id": 67
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-233-1626",
+    "Name": "K-Mart",
+    "PhoneNumber": "256-233-0181",
+    "State": "AL",
+    "id": 68
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-350-9175",
+    "Name": "K-Mart",
+    "PhoneNumber": "256-350-2572",
+    "State": "AL",
+    "id": 69
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-539-5817",
+    "Name": "K-Mart",
+    "PhoneNumber": "256-539-0463",
+    "State": "AL",
+    "id": 70
+  },
+  {
+    "City": "Scottsboro",
+    "FaxNumber": "256-259-5603",
+    "Name": "K-Mart",
+    "PhoneNumber": "256-259-2530",
+    "State": "AL",
+    "id": 71
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-584-6804",
+    "Name": "Kroger",
+    "PhoneNumber": "256-350-3201",
+    "State": "AL",
+    "id": 72
+  },
+  {
+    "City": "Hartselle",
+    "FaxNumber": "256-751-3483",
+    "Name": "Kroger",
+    "PhoneNumber": "256-751-2102",
+    "State": "AL",
+    "id": 73
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-650-0964",
+    "Name": "Kroger Drake Ave",
+    "PhoneNumber": "256-650-5982",
+    "State": "AL",
+    "id": 74
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-551-3200",
+    "Name": "Kroger Oakwood Ave",
+    "PhoneNumber": "256-539-5136",
+    "State": "AL",
+    "id": 75
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-883-9529",
+    "Name": "Kroger  S. Memorial Pky",
+    "PhoneNumber": "256-881-6481",
+    "State": "AL",
+    "id": 76
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-852-1354",
+    "Name": "Kroger Moores Mill Rd.",
+    "PhoneNumber": "256-852-4267",
+    "State": "AL",
+    "id": 77
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-464-5528",
+    "Name": "Kroger Hughes Rd.",
+    "PhoneNumber": "256-461-8530",
+    "State": "AL",
+    "id": 78
+  },
+  {
+    "City": "Arab",
+    "FaxNumber": "256-931-0582",
+    "Name": "Latham Drugs",
+    "PhoneNumber": "256-586-4132",
+    "State": "AL",
+    "id": 79
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-232-2422",
+    "Name": "Limestone Drugs",
+    "PhoneNumber": "256-232-3811",
+    "State": "AL",
+    "id": 80
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-837-0357",
+    "Name": "Madison Drugs",
+    "PhoneNumber": "256-837-1778",
+    "State": "AL",
+    "id": 81
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-355-1558",
+    "Name": "Med Surg Pharmacy",
+    "PhoneNumber": "256-355-2828",
+    "State": "AL",
+    "id": 82
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-350-9829",
+    "Name": "Medicine Shoppe",
+    "PhoneNumber": "256-350-3338",
+    "State": "AL",
+    "id": 83
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-536-1910",
+    "Name": "Medicine Shoppe Ph & Comp",
+    "PhoneNumber": "256-536-1944",
+    "State": "AL",
+    "id": 84
+  },
+  {
+    "City": "Boaz",
+    "FaxNumber": "256-593-1991",
+    "Name": "Mill Street Pharmacy",
+    "PhoneNumber": "256-593-5279",
+    "State": "AL",
+    "id": 85
+  },
+  {
+    "City": "Lacey's Springs",
+    "FaxNumber": "256-498-3202",
+    "Name": "Morgan Drugs",
+    "PhoneNumber": "256-498-3200",
+    "State": "AL",
+    "id": 86
+  },
+  {
+    "City": "New Hope",
+    "FaxNumber": "256-723-5400",
+    "Name": "New Hope Family Pharmacy",
+    "PhoneNumber": "256-723-2911",
+    "State": "AL",
+    "id": 87
+  },
+  {
+    "City": "New Market",
+    "FaxNumber": "256-379-4680",
+    "Name": "New Market Discount Drug",
+    "PhoneNumber": "256-379-4670",
+    "State": "AL",
+    "id": 88
+  },
+  {
+    "City": "Muscle Shoals",
+    "FaxNumber": "256-381-3475",
+    "Name": "North Alabama Infusion Company",
+    "PhoneNumber": "256-389-9297",
+    "State": "AL",
+    "id": 89
+  },
+  {
+    "City": "STE",
+    "FaxNumber": "256-437-9003",
+    "Name": "North Jackson Pharmacy",
+    "PhoneNumber": "256-437-2248",
+    "State": "AL",
+    "id": 90
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "888-922-1786",
+    "Name": "Omni Care Pharmacy",
+    "PhoneNumber": "256-922-1777",
+    "State": "AL",
+    "id": 91
+  },
+  {
+    "City": "Arab",
+    "FaxNumber": "256-586-1135",
+    "Name": "Parkway Pharmacy :Hwy 231",
+    "PhoneNumber": "256-586-3293",
+    "State": "AL",
+    "id": 92
+  },
+  {
+    "City": "Arab",
+    "FaxNumber": "256-586-1135",
+    "Name": "Parkway Pharmacy: Brindlee Mtn",
+    "PhoneNumber": "256-586-4120",
+    "State": "AL",
+    "id": 93
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-351-7410",
+    "Name": "Pay Less Danville Rd.",
+    "PhoneNumber": "256-351-7006",
+    "State": "AL",
+    "id": 94
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-355-5152",
+    "Name": "Pay Less Medical Dr.",
+    "PhoneNumber": "256-353-5011",
+    "State": "AL",
+    "id": 95
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-350-5300",
+    "Name": "Pay Less Moulton St.",
+    "PhoneNumber": "256-355-1815",
+    "State": "AL",
+    "id": 96
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-351-2073",
+    "Name": "Personal Touch Pharmacy",
+    "PhoneNumber": "256-351-0404",
+    "State": "AL",
+    "id": 97
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-258-0385",
+    "Name": "Pharmacy Care Associates",
+    "PhoneNumber": "256-713-3975",
+    "State": "AL",
+    "id": 98
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-722-9667",
+    "Name": "Pharmacy Express",
+    "PhoneNumber": "256-722-9644",
+    "State": "AL",
+    "id": 99
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-533-9318",
+    "Name": "Pharmacy First",
+    "PhoneNumber": "256-533-9314",
+    "State": "AL",
+    "id": 100
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-353-1790",
+    "Name": "Pill Box: 2422 Danville Rd SW",
+    "PhoneNumber": "256-353-1121",
+    "State": "AL",
+    "id": 101
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-353-0299",
+    "Name": "Pill Box: 474 Hwy 67 S",
+    "PhoneNumber": "256-353-0100",
+    "State": "AL",
+    "id": 102
+  },
+  {
+    "City": "Pisgah",
+    "FaxNumber": "256-451-6088",
+    "Name": "Pisgah Pharmacy",
+    "PhoneNumber": "256-451-3283",
+    "State": "AL",
+    "id": 103
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-539-1012",
+    "Name": "Propst Discount Drugs",
+    "PhoneNumber": "256-539-7445",
+    "State": "AL",
+    "id": 104
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-203-8752",
+    "Name": "Publix",
+    "PhoneNumber": "256-534-2333",
+    "State": "AL",
+    "id": 105
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-230-2547",
+    "Name": "Publix",
+    "PhoneNumber": "256-230-2324",
+    "State": "AL",
+    "id": 106
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-301-5593",
+    "Name": "Publix",
+    "PhoneNumber": "256-301-6411",
+    "State": "AL",
+    "id": 107
+  },
+  {
+    "City": "Florence",
+    "FaxNumber": "256-513-6291",
+    "Name": "Publix",
+    "PhoneNumber": "256-718-1795",
+    "State": "AL",
+    "id": 108
+  },
+  {
+    "City": "Guntersville",
+    "FaxNumber": "256-571-2510",
+    "Name": "Publix",
+    "PhoneNumber": "256-571-2506",
+    "State": "AL",
+    "id": 109
+  },
+  {
+    "City": "Harvest",
+    "FaxNumber": "256-851-5969",
+    "Name": "Publix",
+    "PhoneNumber": "256-851-5963",
+    "State": "AL",
+    "id": 110
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-885-2464",
+    "Name": "Publix Bailey Cove Rd.",
+    "PhoneNumber": "256-885-2161",
+    "State": "AL",
+    "id": 111
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-885-0393",
+    "Name": "Publix Whitesburg Dr.",
+    "PhoneNumber": "256-650-2396",
+    "State": "AL",
+    "id": 112
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-851-5818",
+    "Name": "Publix Winchester Rd.",
+    "PhoneNumber": "256-851-5813",
+    "State": "AL",
+    "id": 113
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-864-0511",
+    "Name": "Publix Hwy 72 West",
+    "PhoneNumber": "256-864-0511",
+    "id": 114
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-230-2636",
+    "Name": "Publix County Line Rd.",
+    "PhoneNumber": "256-230-2631",
+    "State": "AL",
+    "id": 115
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-461-1866",
+    "Name": "Publix Madison Blvd.",
+    "PhoneNumber": "256-461-6467",
+    "State": "AL",
+    "id": 116
+  },
+  {
+    "City": "Meridianville",
+    "FaxNumber": "256-829-3497",
+    "Name": "Publix",
+    "PhoneNumber": "256-829-3492",
+    "State": "AL",
+    "id": 117
+  },
+  {
+    "City": "Owens Cross Roads",
+    "FaxNumber": "256-513-6290",
+    "Name": "Publix",
+    "PhoneNumber": "256-512-5679",
+    "State": "AL",
+    "id": 118
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-715-0058",
+    "Name": "Quick Care Pharmacy",
+    "PhoneNumber": "256-517-8317",
+    "State": "AL",
+    "id": 119
+  },
+  {
+    "City": "Rainsville",
+    "FaxNumber": "256-638-2257",
+    "Name": "Rainsville Compounding Ph",
+    "PhoneNumber": "256-638-2255",
+    "State": "AL",
+    "id": 120
+  },
+  {
+    "City": "Cullman",
+    "FaxNumber": "256-739-2739",
+    "Name": "Rite Aid 1606 2nd Ave SW",
+    "PhoneNumber": "256-739-1993",
+    "State": "AL",
+    "id": 121
+  },
+  {
+    "City": "Cullman",
+    "FaxNumber": "256-734-2323",
+    "Name": "Rite Aid  Cullman Shop Ctr",
+    "PhoneNumber": "256-734-8440",
+    "State": "AL",
+    "id": 122
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-536-7216",
+    "Name": "Rite Aid 1526 6th Ave. SE",
+    "PhoneNumber": "256-353-1195",
+    "State": "AL",
+    "id": 123
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-353-9170",
+    "Name": "Rite Aid 2202 Danville Rd SW",
+    "PhoneNumber": "256-353-7131",
+    "State": "AL",
+    "id": 124
+  },
+  {
+    "City": "Florence",
+    "FaxNumber": "256-767-8131",
+    "Name": "Rite Aid 1313 North Wood Ave.",
+    "PhoneNumber": "256-766-2144",
+    "State": "AL",
+    "id": 125
+  },
+  {
+    "City": "Florence",
+    "FaxNumber": "256-718-3469",
+    "Name": "Rite Aid 2403 Florence Blvd",
+    "PhoneNumber": "256-766-7450",
+    "State": "AL",
+    "id": 126
+  },
+  {
+    "City": "Fort Payne",
+    "FaxNumber": "256-845-3876",
+    "Name": "Rite Aid",
+    "PhoneNumber": "256-845-6338",
+    "State": "AL",
+    "id": 127
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-539-2501",
+    "Name": "Rite Aid",
+    "PhoneNumber": "256-533-5883",
+    "State": "AL",
+    "id": 128
+  },
+  {
+    "City": "Hartselle",
+    "FaxNumber": "256-773-6749",
+    "Name": "Rite Aid",
+    "PhoneNumber": "256-773-6561",
+    "State": "AL",
+    "id": 129
+  },
+  {
+    "City": "Hazel Green",
+    "FaxNumber": "256-828-4071",
+    "Name": "Rite Aid",
+    "PhoneNumber": "256-828-5133",
+    "State": "AL",
+    "id": 130
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-883-9676",
+    "Name": "Rite Aid Whitesburg/Airport",
+    "PhoneNumber": "256-883-0325",
+    "State": "AL",
+    "id": 131
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-852-6495",
+    "Name": "Rite Aid Winchester Rd.",
+    "PhoneNumber": "256-852-3776",
+    "State": "AL",
+    "id": 132
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-830-2548",
+    "Name": "Rite Aid Wynn Dr.",
+    "PhoneNumber": "256-837-6240",
+    "State": "AL",
+    "id": 133
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-464-9654",
+    "Name": "Rite Aid Hughes Rd.",
+    "PhoneNumber": "256-464-3962",
+    "State": "AL",
+    "id": 134
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-464-8457",
+    "Name": "Rite Aid Madison Blvd",
+    "PhoneNumber": "256-461-6903",
+    "State": "AL",
+    "id": 135
+  },
+  {
+    "City": "Meridianville",
+    "FaxNumber": "256-828-1088",
+    "Name": "Rite Aid",
+    "PhoneNumber": "256-828-1000",
+    "State": "AL",
+    "id": 136
+  },
+  {
+    "City": "Rainsville",
+    "FaxNumber": "256-638-2218",
+    "Name": "Rite Aid",
+    "PhoneNumber": "256-638-4414",
+    "State": "AL",
+    "id": 137
+  },
+  {
+    "City": "Rogersville",
+    "FaxNumber": "256-247-5442",
+    "Name": "Rogersville Discount Drugs",
+    "PhoneNumber": "256-247-5441",
+    "State": "AL",
+    "id": 138
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-881-8995",
+    "Name": "Sam's Club : National Blvd",
+    "PhoneNumber": "256-881-8084",
+    "State": "AL",
+    "id": 139
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-837-7210",
+    "Name": "Sam's Club: Holmes Ave.",
+    "PhoneNumber": "256-837-7323",
+    "State": "AL",
+    "id": 140
+  },
+  {
+    "City": "Scottsboro",
+    "FaxNumber": "256-259-9301",
+    "Name": "Scottsboro Family Pharmacy",
+    "PhoneNumber": "256-259-9300",
+    "State": "AL",
+    "id": 141
+  },
+  {
+    "City": "Section",
+    "FaxNumber": "256-228-3179",
+    "Name": "Section Pharmacy",
+    "PhoneNumber": "256-228-7179",
+    "State": "AL",
+    "id": 142
+  },
+  {
+    "City": "Guntersville",
+    "FaxNumber": "256-753-6919",
+    "Name": "Sorter's Pharmacy",
+    "PhoneNumber": "256-753-2994",
+    "State": "AL",
+    "id": 143
+  },
+  {
+    "City": "Tanner",
+    "FaxNumber": "256-232-6589",
+    "Name": "Southside Pharmacy",
+    "PhoneNumber": "256-232-6588",
+    "State": "AL",
+    "id": 144
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-650-2337",
+    "Name": "Star Pharmacy Bailey Cove",
+    "PhoneNumber": "256-650-2335",
+    "State": "AL",
+    "id": 145
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-534-1121",
+    "Name": "Star Pharmacy Pratt Avenue",
+    "PhoneNumber": "256-534-1118",
+    "State": "AL",
+    "id": 146
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-721-0879",
+    "Name": "Star Pharmacy",
+    "PhoneNumber": "256-721-0739",
+    "State": "AL",
+    "id": 147
+  },
+  {
+    "City": "Meridianville",
+    "FaxNumber": "256-829-0992",
+    "Name": "Star Pharmacy",
+    "PhoneNumber": "256-829-0209",
+    "State": "AL",
+    "id": 148
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-518-9531",
+    "Name": "Sterling Compounding",
+    "PhoneNumber": "256-518-9530",
+    "State": "AL",
+    "id": 149
+  },
+  {
+    "City": "Moulton",
+    "FaxNumber": "256-905-0320",
+    "Name": "Steve's Pharmacy",
+    "PhoneNumber": "256-974-7663",
+    "State": "AL",
+    "id": 150
+  },
+  {
+    "City": "Harvest",
+    "FaxNumber": "256-858-2388",
+    "Name": "Sur Sav",
+    "PhoneNumber": "256-858-9677",
+    "State": "AL",
+    "id": 151
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-230-6232",
+    "Name": "Sur Sav",
+    "PhoneNumber": "256-230-6200",
+    "State": "AL",
+    "id": 152
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-898-3034",
+    "Name": "Target Pharmacy",
+    "PhoneNumber": "256-898-3037",
+    "State": "AL",
+    "id": 153
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-883-6295",
+    "Name": "Target Pharmacy Carl T. Jones",
+    "PhoneNumber": "256-883-6295",
+    "State": "AL",
+    "id": 154
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-971-0913",
+    "Name": "Target Pharmacy University Drive",
+    "PhoneNumber": "256-971-0913",
+    "State": "AL",
+    "id": 155
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-350-3366",
+    "Name": "Trinity Discount Drugs",
+    "PhoneNumber": "256-350-3365",
+    "State": "AL",
+    "id": 156
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-355-7684",
+    "Name": "Valley Drugs - Somerville Rd",
+    "PhoneNumber": "256-355-8015",
+    "State": "AL",
+    "id": 157
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-355-6243",
+    "Name": "Valley Drugs - 16th Avenue",
+    "PhoneNumber": "256-355-6225",
+    "State": "AL",
+    "id": 158
+  },
+  {
+    "City": "Albertville",
+    "FaxNumber": "256-878-6379",
+    "Name": "Walgreens",
+    "PhoneNumber": "256-878-4447",
+    "State": "AL",
+    "id": 159
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-230-2839",
+    "Name": "Walgreens",
+    "PhoneNumber": "256-230-2799",
+    "State": "AL",
+    "id": 160
+  },
+  {
+    "City": "Boaz",
+    "FaxNumber": "256-593-7445",
+    "Name": "Walgreens",
+    "PhoneNumber": "256-593-6092",
+    "State": "AL",
+    "id": 161
+  },
+  {
+    "City": "Cullman",
+    "FaxNumber": "256-734-7138",
+    "Name": "Walgreens 1700 2nd Ave",
+    "PhoneNumber": "256-734-7188",
+    "State": "AL",
+    "id": 162
+  },
+  {
+    "City": "Cullman",
+    "FaxNumber": "256-775-2969",
+    "Name": "Walgreens 444 2nd Ave",
+    "PhoneNumber": "256-736-9901",
+    "State": "AL",
+    "id": 163
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-355-9971",
+    "Name": "Walgreens 1127 6th Ave S",
+    "PhoneNumber": "256-355-4495",
+    "State": "AL",
+    "id": 164
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-584-9856",
+    "Name": "Walgreens 1718 Beltline Road",
+    "PhoneNumber": "256-584-6626",
+    "State": "AL",
+    "id": 165
+  },
+  {
+    "City": "Fayetteville",
+    "FaxNumber": "931-433-8671",
+    "Name": "Walgreens",
+    "PhoneNumber": "931-433-5569",
+    "State": "TN",
+    "id": 166
+  },
+  {
+    "City": "Florence",
+    "FaxNumber": "256-718-3920",
+    "Name": "Walgreens Dr Hicks Blvd",
+    "PhoneNumber": "256-718-0457",
+    "State": "AL",
+    "id": 167
+  },
+  {
+    "City": "Florence",
+    "FaxNumber": "256-764-7429",
+    "Name": "Walgreens Florence Blvd",
+    "PhoneNumber": "256-764-0436",
+    "State": "AL",
+    "id": 168
+  },
+  {
+    "City": "Fort Payne",
+    "FaxNumber": "256-845-9984",
+    "Name": "Walgreens",
+    "PhoneNumber": "256-845-0128",
+    "State": "AL",
+    "id": 169
+  },
+  {
+    "City": "Guntersville",
+    "FaxNumber": "256-582-2985",
+    "Name": "Walgreens",
+    "PhoneNumber": "256-582-2513",
+    "State": "AL",
+    "id": 170
+  },
+  {
+    "City": "Hartselle",
+    "FaxNumber": "256-773-1718",
+    "Name": "Walgreens",
+    "PhoneNumber": "256-773-4377",
+    "State": "AL",
+    "id": 171
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-512-5578",
+    "Name": "Walgreens Brandon/Longwood",
+    "PhoneNumber": "256-512-0957",
+    "State": "AL",
+    "id": 172
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-882-2982",
+    "Name": "Walgreens Carl T. Jones",
+    "PhoneNumber": "256-882-2883",
+    "State": "AL",
+    "id": 173
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-533-6967",
+    "Name": "Walgreens Bob Wallace",
+    "PhoneNumber": "256-533-5058",
+    "State": "AL",
+    "id": 174
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-851-4229",
+    "Name": "Walgreens Mastin Lake Rd./Pulaski",
+    "PhoneNumber": "256-851-4188",
+    "State": "AL",
+    "id": 175
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-534-3691",
+    "Name": "Walgreens Univ. Dr./Jordan La.",
+    "PhoneNumber": "256-534-2785",
+    "State": "AL",
+    "id": 176
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-885-2364",
+    "Name": "Walgreens Mem'l Pky SW/Mt. Gap",
+    "PhoneNumber": "256-885-2212",
+    "State": "AL",
+    "id": 177
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-885-2364",
+    "Name": "Walgreens Memorial Pky",
+    "PhoneNumber": "256-885-2212",
+    "State": "AL",
+    "id": 178
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-895-9879",
+    "Name": "Walgreens  Hwy 72",
+    "PhoneNumber": "256-895-9326",
+    "State": "AL",
+    "id": 179
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-230-6799",
+    "Name": "Walgreens Cty Ln/Br Ferry",
+    "PhoneNumber": "256-230-6345",
+    "State": "AL",
+    "id": 180
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-721-9065",
+    "Name": "Walgreens Jeff Rd",
+    "PhoneNumber": "256-721-2751",
+    "State": "AL",
+    "id": 181
+  },
+  {
+    "City": "Owens Crossroads",
+    "FaxNumber": "256-519-3883",
+    "Name": "Walgreens",
+    "PhoneNumber": "256-533-8982",
+    "State": "AL",
+    "id": 182
+  },
+  {
+    "City": "Pulaski",
+    "FaxNumber": "931-424-6463",
+    "Name": "Walgreens",
+    "PhoneNumber": "931-424-5335",
+    "State": "TN",
+    "id": 183
+  },
+  {
+    "City": "Florence",
+    "FaxNumber": "256-712-6199",
+    "Name": "Walmart 1410 Florence Blvd",
+    "PhoneNumber": "256-712-6198",
+    "State": "AL",
+    "id": 184
+  },
+  {
+    "City": "Arab",
+    "FaxNumber": "256-586-1526",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-586-1540",
+    "State": "AL",
+    "id": 185
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-233-7301",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-233-3568",
+    "State": "AL",
+    "id": 186
+  },
+  {
+    "City": "Boaz",
+    "FaxNumber": "256-593-2092",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-593-0495",
+    "State": "AL",
+    "id": 187
+  },
+  {
+    "City": "Cullman",
+    "FaxNumber": "256-739-9125",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-739-3390",
+    "State": "AL",
+    "id": 188
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-350-8396",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-350-9969",
+    "State": "AL",
+    "id": 189
+  },
+  {
+    "City": "Fayetteville",
+    "FaxNumber": "931-433-9723",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "931-433-0011",
+    "State": "TN",
+    "id": 190
+  },
+  {
+    "City": "Florence",
+    "FaxNumber": "256-767-5965",
+    "Name": "Walmart Supercenter Hough Road",
+    "PhoneNumber": "256-767-4725",
+    "State": "AL",
+    "id": 191
+  },
+  {
+    "City": "Fort Payne",
+    "FaxNumber": "256-997-1196",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-997-1194",
+    "State": "AL",
+    "id": 192
+  },
+  {
+    "City": "Guntersville",
+    "FaxNumber": "256-878-9387",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-878-8414",
+    "State": "AL",
+    "id": 193
+  },
+  {
+    "City": "Hartselle",
+    "FaxNumber": "256-773-9456",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-773-1799",
+    "State": "AL",
+    "id": 194
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-536-6342",
+    "Name": "Walmart Supercenter Drake/Mem Pky",
+    "PhoneNumber": "256-536-0315",
+    "State": "AL",
+    "id": 195
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-534-4056",
+    "Name": "Walmart Supercenter Hampton Cove",
+    "PhoneNumber": "256-534-4775",
+    "State": "AL",
+    "id": 196
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-880-7083",
+    "Name": "Walmart Supercenter Mem Pky",
+    "PhoneNumber": "256-880-7261",
+    "State": "AL",
+    "id": 197
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-859-5169",
+    "Name": "Walmart Supercenter Sparkman Dr.",
+    "PhoneNumber": "256-852-1323",
+    "State": "AL",
+    "id": 198
+  },
+  {
+    "City": "Huntsville",
+    "FaxNumber": "256-837-4501",
+    "Name": "Walmart Supercenter University Dr.",
+    "PhoneNumber": "256-837-1656",
+    "State": "AL",
+    "id": 199
+  },
+  {
+    "City": "Madison",
+    "FaxNumber": "256-461-4810",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-461-7812",
+    "State": "AL",
+    "id": 200
+  },
+  {
+    "City": "Pulaski",
+    "FaxNumber": "931-424-9534",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "931-424-5584",
+    "State": "TN",
+    "id": 201
+  },
+  {
+    "City": "Scottsboro",
+    "FaxNumber": "256-574-1363",
+    "Name": "Walmart Supercenter",
+    "PhoneNumber": "256-574-1803",
+    "State": "AL",
+    "id": 202
+  },
+  {
+    "City": "Decatur",
+    "FaxNumber": "256-351-8375",
+    "Name": "Westmeade Pharmacy",
+    "PhoneNumber": "256-355-8211",
+    "State": "AL",
+    "id": 203
+  },
+  {
+    "City": "Athens",
+    "FaxNumber": "256-233-0865",
+    "Name": "Westside Jiffy Pharmacy",
+    "PhoneNumber": "256-233-2307",
+    "State": "AL",
+    "id": 204
+  }
+]

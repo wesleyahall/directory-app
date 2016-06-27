@@ -1,7 +1,9 @@
-import doctorActions from './doctorActions'
-import pharmacyActions from './pharmacyActions'
+import doctorActions from './actions_doctors'
+import pharmacyActions from './actions_pharmacies'
+import hospitalActions from './actions_hospitals'
 
 export {
   doctorActions,
-  pharmacyActions
+  pharmacyActions,
+  hospitalActions
 }

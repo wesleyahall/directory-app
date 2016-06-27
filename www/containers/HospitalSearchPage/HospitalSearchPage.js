@@ -1,11 +1,22 @@
 import React from 'react'
+import { connect } from 'react-redux'
+import { hospitalActions as actions } from '../../actions'
+import { bindActionCreators } from 'redux'
+import HospitalList from '../../components/HospitalList'
 
 const HospitalSearchPage = (props) => {
   return (
-    <div className='page'>
-      <h1>Hospitals</h1>
+    <div>
+      <HospitalList {...props} />
     </div>
   )
 }
 
-export default HospitalSearchPage
+function mapStateToProps (state) {
+  return {
+    hospitals: state.hospitals,
+    hospitalFilterString: state.hospitalFilterString
+  }
+}
+const mapDispatchToProps = (dispatch) => bindActionCreators(actions, dispatch)
+export default connect(mapStateToProps, mapDispatchToProps)(HospitalSearchPage)
