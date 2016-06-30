@@ -1,8 +1,10 @@
+import CONSTS from '../constants'
+
 export default function (state = '', action) {
   switch (action.type) {
-    case 'FILTER_HOSPITALS':
+    case CONSTS.FILTER_HOSPITALS:
       return action.hospitalFilterString
-    case 'RESET_HOSPITAL_FILTER':
+    case CONSTS.RESET_HOSPITAL_FILTER:
       return action.hospitalFilterString
     default:
       return state

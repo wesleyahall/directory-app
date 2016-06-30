@@ -1,4 +1,6 @@
-export default function (state = [], action) {
+import CONSTS from '../constants'
+
+export default function (state = '', action) {
   switch (action.type) {
     case 'DERP':
       return state

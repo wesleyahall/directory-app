@@ -9,7 +9,7 @@ import SelectedDoctorReducer from './reducer_selected_doctor'
 import SelectedHospitalReducer from './reducer_selected_hospital'
 import SelectedPharmacyReducer from './reducer_selected_pharmacy'
 
-const rootReducer = combineReducers({
+const rootReducer = storage.reducer(combineReducers({
   doctors: DoctorsReducer,
   doctorFilterString: DoctorFilterStringReducer,
   selectedDoctor: SelectedDoctorReducer,
