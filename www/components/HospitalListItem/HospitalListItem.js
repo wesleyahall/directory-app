@@ -13,12 +13,12 @@ class HospitalListItem extends Component {
     const { hospital } = this.props
     return (
       <Link
-        className='hospital-list__item'
+        className='hospital-list__list__item'
         key={hospital.id}
         to={'hospitals/' + hospital.id}
       >
         <li>
-          <div className='hospital-list__item--name'>
+          <div className='hospital-list__list__item--name'>
             {hospital.Name}
           </div>
         </li>

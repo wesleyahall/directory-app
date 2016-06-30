@@ -12,31 +12,51 @@ class DoctorListItem extends Component {
   render () {
     const { doctor } = this.props
     let doctorName = doctor.FirstName + ' ' + doctor.LastName
-    let doctorPractice = doctor.PracticeName === 0 ? '' : 'Practice: ' + doctor.PracticeName
-    let doctorSpecialty = 'Specialty: ' + doctor.Specialty
 
     return (
-      <Link className='doctor-list__item' key={doctor.id} to={'doctors/' + doctor.id}>
+      <div className='doctor-list__list__item'>
         <li>
-          <div className='doctor-list__item--name'>
+          <div className='doctor-list__list__item--name'>
             {doctorName}
           </div>
 
-          <div className='doctor-list__item--practice'>
-            {doctorPractice}
+          <div className='doctor-list__list__item--specialty'>
+            {doctor.Specialty}
           </div>
 
-          <div className='doctor-list__item--specialty'>
-            {doctorSpecialty}
+          <div className='doctor-list__list__item--practice'>
+            {doctor.PracticeName}
           </div>
 
-          <div className='doctor-list__item--phone-number'>
-            <a href={'telprompt:' + doctor.PhoneNumber} onClick={::this.handlePhoneClick}>
-              {doctor.PhoneNumber}
-            </a>
+          <div className='doctor-list__list__item--phone-number'>
+            {doctor.PhoneNumber}
           </div>
         </li>
-      </Link>
+        <div>
+          <ul className='doctor-list__list__item__links'>
+            <li>
+              <div>
+                <a
+                  className='doctor-list__list__item__btn doctor-list__list__item__btn--call'
+                  href={'telprompt://' + doctor.PhoneNumber}>
+                  Call
+                </a>
+              </div>
+            </li>
+            <li>
+              <div>
+                <Link
+                  className='doctor-list__list__item__btn doctor-list__list__item__btn--more-info'
+                  key={doctor.id}
+                  to={'doctors/' + doctor.id}
+                  activeClassName='doctor-list__list__item__btn--active'>
+                  More Info
+                </Link>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
     )
   }
 }

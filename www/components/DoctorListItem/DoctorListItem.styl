@@ -1,0 +1,42 @@
+@require('../../assets/styles/vars.styl')
+@require('../../assets/styles/font-awesome.css')
+
+.doctor-list__list__item 
+  color $green
+  padding-left 20px
+
+  &__links 
+    list-style-type none
+    padding 0
+    margin 0
+    margin-top 20px
+
+    li 
+      display inline-block
+      a 
+        color $off-white
+        text-decoration none
+
+  &__btn
+    padding 10px
+    background-color $green
+    margin-right: 15px
+    font-size 14px
+    box-shadow 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+
+    &:active,
+    &--active
+      box-shadow none
+
+    &--call::before 
+      content '\f095'
+      font-family FontAwesome
+      padding-right 10px
+      color $off-white
+      margin-top -15px
+
+    &--more-info::after
+      content '\f061'
+      font-family FontAwesome
+      color $off-white
+      padding-left 10px

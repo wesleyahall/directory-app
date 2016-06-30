@@ -47,7 +47,7 @@ class DoctorList extends Component {
             autoCorrect='off' autoCapitalize='off' spellCheck='false' />
           <h3 className='doctor-list__header__results'>{results}</h3>
         </div>
-        <ul className='doctor-list'>
+        <ul className='doctor-list__list'>
           {
             data.map(function (doctor) {
               return <DoctorListItem key={doctor.id} doctor={doctor} {...this.props} />

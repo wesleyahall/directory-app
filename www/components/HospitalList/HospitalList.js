@@ -45,7 +45,7 @@ class HospitalList extends Component {
             autoCorrect='off' autoCapitalize='off' spellCheck='false' />
           <h3 className='hospital-list__header__results'>{results}</h3>
         </div>
-        <ul className='hospital-list'>
+        <ul className='hospital-list__list'>
           {
             data.map(function (hospital) {
               return <HospitalListItem key={hospital.id} hospital={hospital} {...this.props} />
